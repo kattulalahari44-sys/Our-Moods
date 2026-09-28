@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Grounds · Modern Study & Botanical Brew Lab",
+  "description": "A student-first café concept combining biophilic study sanctuaries, affordable craft sustenance, zero-waste circular systems, and creative community space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
